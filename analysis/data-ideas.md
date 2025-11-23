@@ -8,3 +8,5 @@
 
 - Prefer simple baselines before complex models.
 
+- Keep experiment configurations under version control.
+
