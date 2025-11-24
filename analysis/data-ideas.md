@@ -10,3 +10,5 @@
 
 - Keep experiment configurations under version control.
 
+- Write down what was tried, not only what worked.
+
