@@ -12,3 +12,5 @@
 
 - Write down what was tried, not only what worked.
 
+- Distinguish data issues from modeling issues.
+
