@@ -16,3 +16,5 @@
 
 - Revisit assumptions when metrics plateau.
 
+- Inspect raw samples before trusting the dataset.
+
