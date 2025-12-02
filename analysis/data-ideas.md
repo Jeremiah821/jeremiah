@@ -24,3 +24,5 @@
 
 - Prefer simple baselines before complex models.
 
+- Record the metrics that actually matter to users.
+
