@@ -26,3 +26,5 @@
 
 - Record the metrics that actually matter to users.
 
+- Distinguish data issues from modeling issues.
+
