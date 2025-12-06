@@ -28,3 +28,5 @@
 
 - Distinguish data issues from modeling issues.
 
+- Revisit assumptions when metrics plateau.
+
