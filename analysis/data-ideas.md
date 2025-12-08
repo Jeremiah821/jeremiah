@@ -30,3 +30,7 @@
 
 - Revisit assumptions when metrics plateau.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+Explore options for performance monitoring and profiling.
+
