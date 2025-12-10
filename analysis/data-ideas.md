@@ -38,3 +38,7 @@ Explore options for performance monitoring and profiling.
 Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 Explore potential for a CI/CD pipeline for automated testing and deployment.
 
+
+- Consider adding a CONTRIBUTING.md file outlining contribution guidelines.
+- Implement automated testing to ensure code quality and stability.
+
