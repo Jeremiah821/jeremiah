@@ -42,3 +42,7 @@ Explore potential for a CI/CD pipeline for automated testing and deployment.
 - Consider adding a CONTRIBUTING.md file outlining contribution guidelines.
 - Implement automated testing to ensure code quality and stability.
 
+
+* **Add unit tests for core logic to ensure reliability and prevent regressions.**
+* **Consider a configuration file for easier management of API keys and other settings.**
+
