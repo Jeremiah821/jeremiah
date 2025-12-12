@@ -46,3 +46,7 @@ Explore potential for a CI/CD pipeline for automated testing and deployment.
 * **Add unit tests for core logic to ensure reliability and prevent regressions.**
 * **Consider a configuration file for easier management of API keys and other settings.**
 
+
+This repo contains a Rust implementation of the Jeremiah cipher.
+Consider adding examples of using the Jeremiah cipher in various scenarios.
+
