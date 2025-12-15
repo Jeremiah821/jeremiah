@@ -58,3 +58,7 @@ Explore adding unit tests for core functionalities.
 *   **Theme Exploration:** The Jeremiah character and narrative could explore themes of prophecy, doubt, obedience, and the burden of a divine message.
 *   **Interactivity:** Consider adding interactive elements where users can "interpret" Jeremiah's prophecies or make choices that reflect the prophet's struggles.
 
+
+Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+Include a `LICENSE` file to clearly define usage and distribution rights.
+
