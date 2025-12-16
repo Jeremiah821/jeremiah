@@ -62,3 +62,7 @@ Explore adding unit tests for core functionalities.
 Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 Include a `LICENSE` file to clearly define usage and distribution rights.
 
+
+Add a `CONTRIBUTING.md` file with guidelines for contributing.
+Include a `CODE_OF_CONDUCT.md` file to foster a welcoming community.
+
