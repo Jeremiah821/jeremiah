@@ -66,3 +66,7 @@ Include a `LICENSE` file to clearly define usage and distribution rights.
 Add a `CONTRIBUTING.md` file with guidelines for contributing.
 Include a `CODE_OF_CONDUCT.md` file to foster a welcoming community.
 
+
+Consider adding CI/CD pipelines for automated testing and deployment.
+Document the project's architecture and key decision points.
+
