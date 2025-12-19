@@ -75,3 +75,7 @@ Consider adding a README.md file with a clear project description, installation 
 
 Explore potential use cases for the "jeremiah" functionality, such as data validation, configuration management, or data transformation.
 
+
+Automated tests for core logic.
+Consider adding a CONTRIBUTING.md file.
+
