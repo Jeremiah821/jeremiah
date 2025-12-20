@@ -79,3 +79,7 @@ Explore potential use cases for the "jeremiah" functionality, such as data valid
 Automated tests for core logic.
 Consider adding a CONTRIBUTING.md file.
 
+
+* Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+* Explore using GitHub Actions for automated testing and deployments.
+
