@@ -83,3 +83,8 @@ Consider adding a CONTRIBUTING.md file.
 * Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 * Explore using GitHub Actions for automated testing and deployments.
 
+
+Consider adding a CONTRIBUTING.md file.
+
+Explore adding a `.gitignore` file for common build artifacts and development tools.
+
