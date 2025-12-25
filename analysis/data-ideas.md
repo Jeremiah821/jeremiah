@@ -96,3 +96,7 @@ Explore adding a `.gitignore` file for common build artifacts and development to
 1.  Consider adding a CONTRIBUTING.md file to guide potential contributors.
 2.  Implement robust error handling and logging mechanisms for better debugging.
 
+
+Jeremiah 46:28 - "Fear not, O Israel, for I am with you."
+Jeremiah 52:31-34 - God's faithfulness through judgment and eventual restoration.
+
