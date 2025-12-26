@@ -100,3 +100,7 @@ Explore adding a `.gitignore` file for common build artifacts and development to
 Jeremiah 46:28 - "Fear not, O Israel, for I am with you."
 Jeremiah 52:31-34 - God's faithfulness through judgment and eventual restoration.
 
+
+- Include a `README.md` with a clear project description, installation instructions, and usage examples.
+- Consider a `.gitignore` file to exclude unnecessary files and directories (e.g., compiled code, temporary files).
+
