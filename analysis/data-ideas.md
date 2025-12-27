@@ -104,3 +104,7 @@ Jeremiah 52:31-34 - God's faithfulness through judgment and eventual restoration
 - Include a `README.md` with a clear project description, installation instructions, and usage examples.
 - Consider a `.gitignore` file to exclude unnecessary files and directories (e.g., compiled code, temporary files).
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
