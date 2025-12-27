@@ -108,3 +108,7 @@ Jeremiah 52:31-34 - God's faithfulness through judgment and eventual restoration
 Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a README.md with a brief project description, setup instructions, and usage examples.
+Explore adding unit tests for critical functions to ensure code reliability.
+
