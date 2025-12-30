@@ -118,3 +118,7 @@ The "Jeremiah" repo likely contains code, documentation, or other assets related
 *   Consider adding a "Key Themes" or "Major Prophecies" section in the README to quickly summarize the core content.
 *   If the repo includes biblical text, ensure consistent formatting and potentially a versioning system for different translations or annotated versions.
 
+
+*   **CI/CD Pipeline:** Implement automated testing and deployment for smoother releases.
+*   **Documentation Standards:** Establish clear guidelines for code comments, README, and API documentation.
+
