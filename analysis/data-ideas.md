@@ -122,3 +122,7 @@ The "Jeremiah" repo likely contains code, documentation, or other assets related
 *   **CI/CD Pipeline:** Implement automated testing and deployment for smoother releases.
 *   **Documentation Standards:** Establish clear guidelines for code comments, README, and API documentation.
 
+
+Jeremiah's prophetic oracles often deal with themes of exile and return.
+Consider incorporating a section on the historical context of Jeremiah's ministry, including the political climate of his time and the Babylonian exile.
+
