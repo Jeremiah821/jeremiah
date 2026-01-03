@@ -131,3 +131,7 @@ Consider adding a `CONTRIBUTING.md` file to outline how others can contribute to
 
 Explore potential integrations with other popular Go libraries or frameworks if applicable.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
