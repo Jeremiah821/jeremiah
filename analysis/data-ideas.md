@@ -139,3 +139,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 Consider adding a contribution guide.
 Explore adding automated testing for the core logic.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+Explore CI/CD integration for automated testing and deployment.
+
