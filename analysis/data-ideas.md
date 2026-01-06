@@ -143,3 +143,7 @@ Explore adding automated testing for the core logic.
 Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 Explore CI/CD integration for automated testing and deployment.
 
+
+Consider adding a README.md explaining the project's purpose, setup, and usage.
+Explore potential integrations with other Jeremiah-related tools or APIs.
+
