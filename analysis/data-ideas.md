@@ -147,3 +147,7 @@ Explore CI/CD integration for automated testing and deployment.
 Consider adding a README.md explaining the project's purpose, setup, and usage.
 Explore potential integrations with other Jeremiah-related tools or APIs.
 
+
+- Consider adding a `LICENSE` file for clear usage rights.
+- A `README.md` with a project overview, setup instructions, and usage examples would be beneficial.
+
