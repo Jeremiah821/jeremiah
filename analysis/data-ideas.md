@@ -151,3 +151,7 @@ Explore potential integrations with other Jeremiah-related tools or APIs.
 - Consider adding a `LICENSE` file for clear usage rights.
 - A `README.md` with a project overview, setup instructions, and usage examples would be beneficial.
 
+
+Centralize common utility functions.
+Consider adding documentation generation.
+
