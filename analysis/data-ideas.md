@@ -155,3 +155,7 @@ Explore potential integrations with other Jeremiah-related tools or APIs.
 Centralize common utility functions.
 Consider adding documentation generation.
 
+
+- Consider a README section on "Contributing Guidelines" for community involvement.
+- Explore adding a "Roadmap" to visualize future development and feature plans.
+
