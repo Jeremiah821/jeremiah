@@ -159,3 +159,7 @@ Consider adding documentation generation.
 - Consider a README section on "Contributing Guidelines" for community involvement.
 - Explore adding a "Roadmap" to visualize future development and feature plans.
 
+
+Consider adding a `LICENSE` file.
+The repo could benefit from a `README.md` outlining its purpose and usage.
+
