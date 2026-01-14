@@ -163,3 +163,9 @@ Consider adding documentation generation.
 Consider adding a `LICENSE` file.
 The repo could benefit from a `README.md` outlining its purpose and usage.
 
+
+The repo is named "jeremiah".
+
+*   Consider adding a README.md explaining the purpose of the repo.
+*   Perhaps a `LICENSE` file for legal clarity.
+
