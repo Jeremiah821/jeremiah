@@ -169,3 +169,7 @@ The repo is named "jeremiah".
 *   Consider adding a README.md explaining the purpose of the repo.
 *   Perhaps a `LICENSE` file for legal clarity.
 
+
+*   Consider adding documentation for each module or function.
+*   Explore setting up a CI/CD pipeline for automated testing and deployment.
+
