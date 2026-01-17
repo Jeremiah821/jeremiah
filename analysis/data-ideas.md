@@ -173,3 +173,8 @@ The repo is named "jeremiah".
 *   Consider adding documentation for each module or function.
 *   Explore setting up a CI/CD pipeline for automated testing and deployment.
 
+
+Could integrate a journaling component for reflections on past coding challenges or learning experiences.
+
+Consider adding a "projects" section to showcase completed personal projects and their associated code.
+
