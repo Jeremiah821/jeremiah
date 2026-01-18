@@ -178,3 +178,7 @@ Could integrate a journaling component for reflections on past coding challenges
 
 Consider adding a "projects" section to showcase completed personal projects and their associated code.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+*   Implement a continuous integration (CI) pipeline for automated testing and deployment.
+
