@@ -182,3 +182,7 @@ Consider adding a "projects" section to showcase completed personal projects and
 *   Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 *   Implement a continuous integration (CI) pipeline for automated testing and deployment.
 
+
+* Consider a `data` directory for raw and processed datasets.
+* Explore automated documentation generation from code comments.
+
