@@ -186,3 +186,7 @@ Consider adding a "projects" section to showcase completed personal projects and
 * Consider a `data` directory for raw and processed datasets.
 * Explore automated documentation generation from code comments.
 
+
+Consider adding unit tests for core logic.
+Explore CI/CD integration for automated testing and deployment.
+
