@@ -190,3 +190,7 @@ Consider adding a "projects" section to showcase completed personal projects and
 Consider adding unit tests for core logic.
 Explore CI/CD integration for automated testing and deployment.
 
+
+*   Consider adding a "docs" folder for detailed explanations of the algorithms and their implementation.
+*   Explore integration with a visualization library (e.g., matplotlib, Plotly) to demonstrate algorithm outputs.
+
