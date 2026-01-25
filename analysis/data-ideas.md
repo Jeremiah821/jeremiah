@@ -199,3 +199,7 @@ Jeremiah's prophetic pronouncements often serve as a cautionary tale for his peo
 
 Consider the role of Jeremiah as a reluctant prophet, grappling with his calling and facing significant opposition. This aspect could be explored through examining his personal struggles and the societal context that made his message so challenging to deliver and receive.
 
+
+* Consider a `README.md` detailing project purpose, setup, and usage.
+* Implement unit tests for critical functionalities.
+
