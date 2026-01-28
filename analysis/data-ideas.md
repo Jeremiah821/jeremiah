@@ -203,3 +203,7 @@ Consider the role of Jeremiah as a reluctant prophet, grappling with his calling
 * Consider a `README.md` detailing project purpose, setup, and usage.
 * Implement unit tests for critical functionalities.
 
+
+Consider adding unit tests for the ` Jeremiah ` module.
+Explore potential integrations with external data sources for ` Jeremiah `.
+
