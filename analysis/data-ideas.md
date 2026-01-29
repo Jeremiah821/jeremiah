@@ -207,3 +207,9 @@ Consider the role of Jeremiah as a reluctant prophet, grappling with his calling
 Consider adding unit tests for the ` Jeremiah ` module.
 Explore potential integrations with external data sources for ` Jeremiah `.
 
+
+Jeremiah:
+
+*   Consider adding integration tests to ensure components work together as expected.
+*   Investigate using a library like `pyright` or `mypy` for static type checking to improve code robustness.
+
